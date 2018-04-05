@@ -1,0 +1,7 @@
+Changelog:
+
+Version 1.1 (2018-04-04)
+* underscore whitespace in key names
+
+Version 1.0 (2018-04-03)
+* initial version of kv2json

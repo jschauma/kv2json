@@ -1,0 +1,9 @@
+# -s :
+# Same as 002, but with ':' as a separator.
+item1
+key1 : value1
+key2 : value2
+
+item2
+key1 : value1
+key2 : value2

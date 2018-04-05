@@ -1,0 +1,10 @@
+# -s : -o id
+# Same as 002, but with mixed whitespace here and
+# there, using a different object identifier.
+item1
+	key1 : value1
+  key2     : value2
+
+item2
+ key1 :			value1
+key2 : value2    

@@ -1,0 +1,13 @@
+All tests consist of an input file and an output file.
+
+The input file MUST contain as the first line a '#'
+comment, even if that is an empty comment (i.e. only
+the '#' by itself).  This is because we allow
+additional options to be specified with which the tool
+should be invoked.
+
+That is, if the test needs to invoke the tool with the
+'-f foo' and '-b bar' flags, then the first line of
+the input file should be:
+
+# -f foo -b bar

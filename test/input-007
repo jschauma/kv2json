@@ -1,0 +1,156 @@
+#
+c0b1c32b89e5074472960c484aed7f10a03bc5c425a8b11cdabcb13070ce263d:
+             DNS Name = www.thrive.huffingtonpost.com
+               Pubkey = cca0a09d4454d8acc5296ef9540cb61ef1f8cb759fb145773f6783563a147c2c
+               Issuer = C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3
+           Not Before = 2018-04-01 19:19:51 +0000 UTC
+            Not After = 2018-06-30 19:19:51 +0000 UTC
+            Log Entry = 110098741 @ https://ct.googleapis.com/logs/argon2018 (Pre-certificate)
+               crt.sh = https://crt.sh/?sha256=c0b1c32b89e5074472960c484aed7f10a03bc5c425a8b11cdabcb13070ce263d
+             Filename = /home/jans/.certspotter/certs/c0/c0b1c32b89e5074472960c484aed7f10a03bc5c425a8b11cdabcb13070ce263d.precert.pem
+
+77327d7e781783aa9ca195c4faf49c7f89783430cd7f7e19f1ab5a33aff0986a:
+             DNS Name = www.builtbygirls.com
+               Pubkey = e98bab9da154bf39d6165458a705ebb449f913cc908894cd7ee7fd7abd446274
+               Issuer = C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3
+           Not Before = 2018-03-30 12:48:26 +0000 UTC
+            Not After = 2018-06-28 12:48:26 +0000 UTC
+            Log Entry = 243417746 @ https://ct.googleapis.com/pilot (Certificate)
+               crt.sh = https://crt.sh/?sha256=77327d7e781783aa9ca195c4faf49c7f89783430cd7f7e19f1ab5a33aff0986a
+             Filename = /home/jans/.certspotter/certs/77/77327d7e781783aa9ca195c4faf49c7f89783430cd7f7e19f1ab5a33aff0986a.cert.pem
+
+04cf2e52c596a4a17657d2227fd0349b29a69d22be448db1467c098057703cbf:
+             DNS Name = *.paas.corp.yahoo.com
+             DNS Name = *.corp-bf1-1.paas.yahoo.com
+             DNS Name = *.corp-gq1-1.paas.yahoo.com
+             DNS Name = ue1.corp.yahoo.com
+             DNS Name = *.corp.yahoo.com
+             DNS Name = *.video.corp.yahoo.com
+             DNS Name = *.search.corp.yahoo.com
+             DNS Name = *.fastbreak.corp.yahoo.com
+             DNS Name = *.manhattan.corp.yahoo.com
+             DNS Name = *.mobile.corp.yahoo.com
+             DNS Name = *.screwdriver.corp.yahoo.com
+             DNS Name = *.sandbox.screwdriver.corp.yahoo.com
+             DNS Name = *.data.yahoo.com
+             DNS Name = *.au.corp.yahoo.com
+             DNS Name = *.nz.corp.yahoo.com
+             DNS Name = pushtool.staging.ydn.corp.yahoo.com
+             DNS Name = api.pes.corp.yahoo.com
+             DNS Name = api.pes.yahoo.com
+             DNS Name = *.vespa.corp.yahoo.com
+             DNS Name = yca.cc.manhattan.corp.yahoo.com
+             DNS Name = cc.manhattan-cc.corp.yahoo.com
+             DNS Name = cc.manhattan-rtr.corp.yahoo.com
+             DNS Name = cc.manhattan-cli.corp.yahoo.com
+             DNS Name = *.sometrics.ops.corp.yahoo.com
+             DNS Name = sometrics.ops.corp.yahoo.com
+             DNS Name = *.imp.ops.corp.yahoo.com
+             DNS Name = deployr.ops.yahoo.com
+             DNS Name = *.deployr.ops.yahoo.com
+             DNS Name = *.sose.ops.yahoo.com
+             DNS Name = *.ysdr.ops.yahoo.com
+             DNS Name = *.xobni.corp.yahoo.com
+             DNS Name = imp.ops.corp.yahoo.com
+             DNS Name = sose.ops.yahoo.com
+             DNS Name = ysdr.ops.yahoo.com
+             DNS Name = *.dod.corp.yahoo.com
+             DNS Name = helpcachetool.corp.yahoo.com
+             DNS Name = actapi.corp.yahoo.com
+             DNS Name = spotlight.yahoo.com
+             DNS Name = assemblr.corp.yahoo.com
+             DNS Name = *.indexpe.corp.yahoo.com
+             DNS Name = *.apex.corp.yahoo.com
+             DNS Name = apex.corp.yahoo.com
+             DNS Name = *.cyclops.corp.yahoo.com
+             DNS Name = cyclops.corp.yahoo.com
+             DNS Name = cyclops.partner.corp.yahoo.com
+             DNS Name = cyclops.partner-staging.corp.yahoo.com
+             DNS Name = *.operate.corp.yahoo.com
+             DNS Name = saoloadr.ysm.corp.yahoo.com
+             DNS Name = tw.lcc.eds.corp.yahoo.com
+             DNS Name = *.nonprod.flurry.com
+             DNS Name = *.canary.flurry.com
+             DNS Name = *.media.corp.yahoo.com
+             DNS Name = tw.mstr.eds.corp.yahoo.com
+             DNS Name = *.sae.search.corp.yahoo.com
+             DNS Name = sid.corp.yahoo.com
+             DNS Name = xms.corp.yahoo.com
+             DNS Name = *.assistant.corp.yahoo.com
+             DNS Name = rc.advertisinginsights.yahoo.com
+             DNS Name = annex.npm.corp.yahoo.com
+               Pubkey = 2b1085da38df31c6b1134438a61cfd817c0124b819db7de18d57d6ae8dd0a1ab
+               Issuer = C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA
+           Not Before = 2018-04-02 00:00:00 +0000 UTC
+            Not After = 2018-10-01 12:00:00 +0000 UTC
+            Log Entry = 55107205 @ https://mammoth.ct.comodo.com (Pre-certificate)
+               crt.sh = https://crt.sh/?sha256=04cf2e52c596a4a17657d2227fd0349b29a69d22be448db1467c098057703cbf
+             Filename = /home/jans/.certspotter/certs/04/04cf2e52c596a4a17657d2227fd0349b29a69d22be448db1467c098057703cbf.precert.pem
+
+c9db907ae73442bd2d1f0e63866508757f971eb4e42adfee863fdfbdf5c08999:
+             DNS Name = *.autos.yahoo.com
+             DNS Name = att.my.yahoo.com
+             DNS Name = au.be.yahoo.com
+             DNS Name = brightroll.com
+             DNS Name = fantasyforumsaccept.yahoo.net
+             DNS Name = policies.oath.com
+             DNS Name = ucs.netsvs.yahoo.com
+             DNS Name = www.brightroll.com
+             DNS Name = yho.com
+             DNS Name = *.adspecs.yahoo.com
+             DNS Name = *.att.yahoo.com
+             DNS Name = *.beauty.yahoo.com
+             DNS Name = *.celebridades.yahoo.com
+             DNS Name = *.celebrity.yahoo.com
+             DNS Name = *.cinema.yahoo.com
+             DNS Name = *.cine.yahoo.com
+             DNS Name = *.deportes.yahoo.com
+             DNS Name = *.esports.yahoo.com
+             DNS Name = *.eurosport.yahoo.com
+             DNS Name = *.everything.yahoo.com
+             DNS Name = *.fantasysports.yahooapis.com
+             DNS Name = *.fantasysports.yahoo.com
+             DNS Name = *.financas.yahoo.com
+             DNS Name = *.finance.yahoo.com
+             DNS Name = *.finanzas.yahoo.com
+             DNS Name = *.finanzen.yahoo.com
+             DNS Name = *.games.yahoo.com
+             DNS Name = *.golf.fantasysports.yahoo.com
+             DNS Name = *.kino.yahoo.com
+             DNS Name = *.lifestyle.yahoo.com
+             DNS Name = *.live.yahoo.com
+             DNS Name = *.maktoob.com
+             DNS Name = *.media.yahoo.com
+             DNS Name = *.mobile.yahoo.com
+             DNS Name = *.mobi.yahoo.com
+             DNS Name = *.movies.yahoo.com
+             DNS Name = *.mujer.yahoo.com
+             DNS Name = *.music.yahoo.com
+             DNS Name = *.nachrichten.yahoo.com
+             DNS Name = *.news.yahoo.com
+             DNS Name = *.noticias.yahoo.com
+             DNS Name = *.notizie.yahoo.com
+             DNS Name = *.omg.yahoo.com
+             DNS Name = *.people.yahoo.com
+             DNS Name = *.safely.yahoo.com
+             DNS Name = *.screen.yahoo.com
+             DNS Name = *.secure.yahoo.com
+             DNS Name = *.seguridad.yahoo.com
+             DNS Name = *.shine.yahoo.com
+             DNS Name = *.software.yahoo.com
+             DNS Name = *.sports.yahoo.com
+             DNS Name = *.stars.yahoo.com
+             DNS Name = *.style.yahoo.com
+             DNS Name = *.tv.yahoo.com
+             DNS Name = *.video.yahoo.com
+             DNS Name = *.weather.yahoo.com
+             DNS Name = *.yahooapis.com
+             DNS Name = *.yahoo.com
+             DNS Name = *.vida-estilo.yahoo.com
+               Pubkey = df34b3fbbb9cdf853c40e7dcb7114d0132b6ec3e38a83c7cbef8569b6a4f64aa
+               Issuer = C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA
+           Not Before = 2018-04-02 00:00:00 +0000 UTC
+            Not After = 2018-09-01 12:00:00 +0000 UTC
+            Log Entry = 55107596 @ https://mammoth.ct.comodo.com (Pre-certificate)
+               crt.sh = https://crt.sh/?sha256=c9db907ae73442bd2d1f0e63866508757f971eb4e42adfee863fdfbdf5c08999
+             Filename = /home/jans/.certspotter/certs/c9/c9db907ae73442bd2d1f0e63866508757f971eb4e42adfee863fdfbdf5c08999.precert.pem

@@ -1,0 +1,13 @@
+[
+   {
+      "DNS_Name" : "www.thrive.huffingtonpost.com",
+      "Filename" : "/home/jans/.certspotter/certs/c0/c0b1c32b89e5074472960c484aed7f10a03bc5c425a8b11cdabcb13070ce263d.precert.pem",
+      "Issuer" : "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Log_Entry" : "110098741 @ https://ct.googleapis.com/logs/argon2018 (Pre-certificate)",
+      "Not_After" : "2018-06-30 19:19:51 +0000 UTC",
+      "Not_Before" : "2018-04-01 19:19:51 +0000 UTC",
+      "Pubkey" : "cca0a09d4454d8acc5296ef9540cb61ef1f8cb759fb145773f6783563a147c2c",
+      "crt.sh" : "https://crt.sh/?sha256=c0b1c32b89e5074472960c484aed7f10a03bc5c425a8b11cdabcb13070ce263d",
+      "name" : "c0b1c32b89e5074472960c484aed7f10a03bc5c425a8b11cdabcb13070ce263d:"
+   }
+]
