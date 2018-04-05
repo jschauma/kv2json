@@ -185,21 +185,6 @@ EOH
 
 }
 
-
-sub verbose($;$) {
-	my ($msg, $level) = @_;
-	my $char = "=";
-
-	return unless $OPTS{'v'};
-
-	$char .= "=" x ($level ? ($level - 1) : 0 );
-
-	if (!$level || ($level <= $OPTS{'v'})) {
-		print STDERR "$char> $msg\n";
-	}
-}
-
-
 ###
 ### Main
 ###
